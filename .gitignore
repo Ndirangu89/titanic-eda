@@ -8,8 +8,5 @@ __pycache__/
 # Environment folders
 venv/
 
-# Model files (optional)
-*.pkl
-
-# Data files (optional if large)
+# Data files
 data/

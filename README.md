@@ -106,7 +106,7 @@ python predict.py
 **Joshua Ndirangu**\
 Student, BSc Mathematics & Computer Science\
 Jomo Kenyatta University of Agriculture and Technology (JKUAT)\
-GitHub: [@](https://github.com/your-username)Ndirangu89
+GitHub: @Ndirangu89
 
 
 
