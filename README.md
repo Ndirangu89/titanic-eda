@@ -1,5 +1,10 @@
 # Titanic Survival Prediction Project
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![License](https://img.shields.io/github/license/Ndirangu89/titanic-eda)
+![Last Commit](https://img.shields.io/github/last-commit/Ndirangu89/titanic-eda)
+![GitHub Repo stars](https://img.shields.io/github/stars/Ndirangu89/titanic-eda)
+
 This project explores the Titanic dataset to build a machine learning model that predicts whether a passenger survived or not. It includes data cleaning, visualization, feature engineering, model training, evaluation, and deployment.
 
 ---
@@ -25,12 +30,12 @@ titanic-eda/
 
 ##  Technologies Used
 
-- Python 3.x
-- pandas
-- numpy
-- matplotlib & seaborn
-- scikit-learn
-- Jupyter Lab / Notebook
+* Python 3.x
+* pandas
+* numpy
+* matplotlib & seaborn
+* scikit-learn
+* Jupyter Lab / Notebook
 
 ---
 
@@ -77,40 +82,37 @@ python predict.py
 
 ## Model Summary
 
-- **Algorithm Used**: Random Forest Classifier (tuned using GridSearchCV)
-- **Best Parameters**:\
+* **Algorithm Used**: Random Forest Classifier (tuned using GridSearchCV)
+* **Best Parameters**:
   `n_estimators=100`, `max_depth=5`, `min_samples_leaf=2`, `min_samples_split=2`
-- **Accuracy**: \~83.2% on test data
-- **Top Features**: `Sex`, `Title`, `Pclass`, `FamilySize`, `FareBand`
+* **Accuracy**: \~83.2% on test data
+* **Top Features**: `Sex`, `Title`, `Pclass`, `FamilySize`, `FareBand`
 
 ---
 
 ## Future Enhancements
 
-- Add XGBoost or Gradient Boosting for better accuracy
-- Build a simple web interface using Streamlit or Flask
-- Include automated preprocessing pipeline
+* Add XGBoost or Gradient Boosting for better accuracy
+* Build a simple web interface using Streamlit or Flask
+* Include automated preprocessing pipeline
 
 ---
 
 ## Acknowledgements
 
-- Kaggle Titanic Dataset
-- scikit-learn documentation
-- seaborn documentation
+* Kaggle Titanic Dataset
+* scikit-learn documentation
+* seaborn documentation
 
 ---
 
 ## Author
 
-**Joshua Ndirangu**\
-Student, BSc Mathematics & Computer Science\
-Jomo Kenyatta University of Agriculture and Technology (JKUAT)\
-GitHub: @Ndirangu89
-
-
+**Joshua Ndirangu**
+Student, BSc Mathematics & Computer Science
+Jomo Kenyatta University of Agriculture and Technology (JKUAT)
+GitHub: [@](https://github.com/your-username)Ndirangu89
 
 ---
 
 ️ If you found this project helpful, feel free to star it!
-
