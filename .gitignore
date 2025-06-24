@@ -1,0 +1,15 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment folders
+venv/
+
+# Model files (optional)
+*.pkl
+
+# Data files (optional if large)
+data/
